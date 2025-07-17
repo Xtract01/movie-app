@@ -13,4 +13,3 @@ const _Layout = () => {
 };
 
 export default _Layout;
-//ajsnassja
